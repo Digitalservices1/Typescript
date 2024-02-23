@@ -1,0 +1,23 @@
+NODE JS (LTS INSTALLATION COMMAND):
+1.node -v
+2.npm -v
+
+GIT (INSTALLATION):
+1.git --version
+
+TYPESCRIPT (INSTALLATION):
+1.npm install --global typescript@5.0.2
+2.tsc --version
+
+SIMPLE HELLO WORLD :
+1.tsc app.ts
+2.node app.js
+
+COMPLETE ENVIRONMENT OF  
+HELLO WORLD :
+1.tsc --init
+2.npm init -y
+3.npm i @types/node -D
+4.Create .gitignore file
+5.file app.ts and same struccture
+
